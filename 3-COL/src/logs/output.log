@@ -1,0 +1,172 @@
+2026-08-23 16:47:58,323 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,324 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 13 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,324 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,325 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,325 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 15 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,325 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,326 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,327 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,330 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 13 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,330 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,331 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,341 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,341 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 11 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,341 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,341 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 19 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,341 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,341 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 17 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,341 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,341 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,342 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,342 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,342 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,342 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,342 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 19 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,342 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,342 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 19 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,342 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,343 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,343 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,343 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,343 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 17 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,343 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,343 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,343 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,345 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,349 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,350 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,350 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,350 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,351 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,351 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 15 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,351 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,355 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,355 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,355 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,355 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,360 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,360 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,360 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,361 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,362 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,362 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 17 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,362 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,362 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 15 nodi. Errore: n * d must be even
+2026-08-23 16:47:58,362 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,362 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,363 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,363 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,366 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,366 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:47:58,366 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,366 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:47:58,373 - DatasetBuilder - INFO - Dataset convertito e salvato in data/3col_dataset.pt con 38 grafi.
+2026-08-23 16:49:07,094 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,096 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,096 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,096 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,097 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,100 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,101 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,101 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,103 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,104 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,104 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,105 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,105 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,105 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,105 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,107 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,107 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,107 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,107 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,107 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,108 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,108 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,108 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,108 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,108 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,108 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,109 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,110 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,110 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,110 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,110 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,111 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,111 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,112 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,112 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,118 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,118 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,119 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,119 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,121 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,121 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,121 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,121 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,121 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,122 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,122 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 19 nodi. Errore: n * d must be even
+2026-08-23 16:49:07,122 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,122 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,122 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:07,124 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,124 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:07,131 - DatasetBuilder - INFO - Dataset convertito e salvato in data/3col_dataset.pt con 49 grafi.
+2026-08-23 16:49:52,376 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,377 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,377 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,377 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,378 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,378 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,379 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,379 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,379 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,380 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,380 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 19 nodi. Errore: n * d must be even
+2026-08-23 16:49:52,380 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,380 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,381 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,381 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,381 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,381 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,381 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,381 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 15 nodi. Errore: n * d must be even
+2026-08-23 16:49:52,381 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,381 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,383 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,383 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 19 nodi. Errore: n * d must be even
+2026-08-23 16:49:52,383 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,383 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,383 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,383 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 11 nodi. Errore: n * d must be even
+2026-08-23 16:49:52,383 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,383 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,383 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,386 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,386 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 15 nodi. Errore: n * d must be even
+2026-08-23 16:49:52,386 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,386 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,386 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,386 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,387 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,388 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,389 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,391 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,391 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,391 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,391 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,392 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,392 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,392 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,393 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,393 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,393 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,393 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,393 - DataGenerator - WARNING - Impossibile generare grafo di tipo regular con 15 nodi. Errore: n * d must be even
+2026-08-23 16:49:52,393 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,393 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,394 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,394 - DataGenerator - INFO - Generating erdos_renyi graph
+2026-08-23 16:49:52,394 - DataGenerator - INFO - Generating regular graph
+2026-08-23 16:49:52,401 - DatasetBuilder - INFO - Dataset convertito e salvato in data/3col_dataset.pt con 44 grafi.

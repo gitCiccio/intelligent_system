@@ -4,9 +4,9 @@ from torch.nn import Linear
 from torch_geometric import edge_index
 from torch_geometric.nn import GCNConv, global_add_pool
 
-class GNCModel(torch.nn.Module):
+class GNNModel(torch.nn.Module):
     def __init__(self):
-        super(GNCModel, self).__init__()
+        super(GNNModel, self).__init__()
         # punto di partenza
         dim_input = 1
         dim_hidden = 64 # numero arbitrario di neuroni
