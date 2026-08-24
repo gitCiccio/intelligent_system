@@ -1,0 +1,9 @@
+Scenario,Algorithm,Solution Cost (steps),Nodes Generated
+"Scenario A (no recharge, k=14)",BFS (graph search),12,412
+"Scenario A (no recharge, k=14)",UCS (graph search),12,476
+"Scenario A (no recharge, k=14)",IDS - tree search (no dedup),12,238883
+"Scenario A (no recharge, k=14)",IDS - graph search (shared explored set),12,1707
+"Scenario B (recharge, k=6)",BFS (graph search),12,198
+"Scenario B (recharge, k=6)",UCS (graph search),12,201
+"Scenario B (recharge, k=6)",IDS naive (depth capped at k),NO SOLUTION,189
+"Scenario B (recharge, k=6)",IDS correct (depth decoupled from k),12,834
